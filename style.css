@@ -2,3 +2,28 @@ body{
     font-family: "Times New Roman", Times, serif;
     background: #d0b38b;
 }
+button {
+    background: #0c0c0c;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 3.75%;
+    height: 3.5%;
+}
+
+h1{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+h6{
+    margin-top: 10px;
+    font-family: "Times New Roman", Times, serif;
+    font-size:35px;
+}
+.tableofcont{
+    text-align: center;
+    display: flex;
+}
