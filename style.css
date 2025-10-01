@@ -2,13 +2,16 @@ body{
     font-family: "Times New Roman", Times, serif;
     background: #d0b38b;
 }
-button {
+#mode {
     background: #0c0c0c;
     position: fixed;
     left: 0;
     top: 0;
     width: 3.75%;
     height: 3.5%;
+}
+#arrowleft, #arrowright {
+    background: rgba(255, 255, 255, 0);
 }
 
 h1{
