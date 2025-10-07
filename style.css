@@ -11,6 +11,9 @@ body.dark {
 body.dark a {
     color: #00cc66;
 }
+h2{
+    text-align: left;
+}
 
 h2, h3 {
     font-family: Georgia, serif;
@@ -83,7 +86,7 @@ body.dark #dark {
     text-align: left;
     padding-left: 50px;
 }
-.shift{
+.shift, h2{
     padding-left: 40px;
 }
 
