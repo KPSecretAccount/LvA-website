@@ -1,4 +1,4 @@
-const pics = ["Duolingo.png", "LVA1.png", "LVA2.png", "reCAPTCHA.png"];
+const pics = ["LVA1.png", "LVA2.png", "reCAPTCHA.png", "Duolingo.png"];
 let current = 0;
 const img = document.getElementById("pic");
 const count = document.getElementById("counter");
