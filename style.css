@@ -29,7 +29,7 @@ h3 {
 }
 
 img {
-    max-width: 300px;
+    max-width: 400px;
     display: block;
 
 }
@@ -56,10 +56,12 @@ height: fit-content;
 
 .tableofcontents {
     text-align: left;
+    padding-left: 100px;
 }
 
 .tableofcontents h2 {
     margin-bottom: 5px;
+    text-align: left;
 }
 
 section {
@@ -94,5 +96,6 @@ body.dark #dark {
     display: flex;
     justify-content: center;
 }
+
 
 
